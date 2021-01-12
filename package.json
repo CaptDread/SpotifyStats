@@ -1,6 +1,6 @@
 {
   "author": "CC Team",
-  "name": "Spotify Stats",
+  "name": "spotifystats",
   "description": "Visualize Spotify stats",
   "version": "0.0.2",
   "dependencies": {
